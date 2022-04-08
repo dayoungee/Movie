@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
-import { FaCode } from "react-icons/fa";
+//import { FaCode } from "react-icons/fa";
 import { API_URL, API_KEY, IMAGE_BASE_URL } from '../../Config';
 import MainImage from './Sections/MainImage';
-import axios from 'axios';
+//import axios from 'axios';
 import GridCards from '../commons/GridCards';
 import { Row } from 'antd';
 
